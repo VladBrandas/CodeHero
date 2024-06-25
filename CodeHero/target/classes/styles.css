@@ -1,0 +1,14 @@
+/* styles.css */
+.progress-bar .track {
+    -fx-background-color: #e0e0e0; /* Background color of the progress bar track */
+    -fx-background-insets: 0;
+}
+
+.progress-bar .bar {
+    -fx-background-color: linear-gradient(to right, #76c7c0, #63a4ff); /* Gradient color for the progress */
+    -fx-background-insets: 0;
+}
+
+.progress-bar .bar > .bar {
+    -fx-background-color: transparent; /* Transparent color for the inner bar */
+}

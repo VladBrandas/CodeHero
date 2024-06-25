@@ -1,0 +1,14 @@
+class knightgame{
+void up(){}
+void down(){}
+void left(){}
+void right(){}
+void attack(){}
+void block(){}
+void rangedAttack(){}
+void dodge(){}
+}
+
+
+
+
